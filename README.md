@@ -6,4 +6,4 @@ This repo presents a data science work where I leverage a tennis matches dataset
 
 the dataset is fully open to the public and is directly accessible through [Tennis matches](http://tennis-data.co.uk/alldata.php). 
 
-If you run the script 'data_download.py', a new folder called tennis_data will be created containing two subfolder ATP and WTP, each one if them will contains individual xlsx file for each yearly season. Each recorder indicates a match played, the columns indicate the match context (tournament name, tournament stage, field, winner, loser ect..) 
+If you run the script 'data_download.py', a new folder called tennis_data will be created containing two subfolder ATP and WTP, each one of them will contains individual xlsx file for each yearly season. Each record in any xsls fil refers to a match played, the columns indicate the match context (tournament name, tournament stage, field, winner, loser ect..) 
